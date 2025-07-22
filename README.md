@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 </a>
 </p>
 
-<h1 align="center">Hi 👋, I'm Vaasu Chandra</h1>
+<h1 align="center"> I'm Vaasu Chandra</h1>
 <h3 align="center">A passionate ML engineer from India</h3>
 
 <h3 align="left">Connect with me:</h3>
