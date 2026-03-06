@@ -1,69 +1,51 @@
-<div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vaasu%20Chandra&fontSize=60&fontColor=00f5ff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20AI%20Architect%20%7C%20Data%20Alchemist&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
-<a href="https://github.com/grimbit1">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Data+into+Decisions+%F0%9F%93%8A;Passionate+ML+Engineer+%7C+Open+Source+Lover+%F0%9F%9A%80" alt="Typing SVG" />
-</a>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Building+Intelligent+Systems+%F0%9F%A7%A0;Turning+Data+into+Decisions+%F0%9F%93%8A;Passionate+ML+Engineer+%7C+Open+Source+Lover+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=vaasu29&color=00f5ff&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/grimbit1?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117)](https://github.com/grimbit1)
+[![GitHub followers](https://img.shields.io/github/followers/vaasu29?label=Followers&style=for-the-badge&color=a78bfa&labelColor=0d1117)](https://github.com/vaasu29)
 
 </div>
 
 ---
 
-<table align="center" width="100%">
-<tr>
-<td width="55%" valign="top">
-
 ## 🧬 `whoami`
+
 ```python
 class VaasuChandra:
     def __init__(self):
-        self.name        = "Vaasu Chandra"
-        self.role        = "ML Engineer"
-        self.location    = "🌍 Earth"
-        self.languages   = ["Python", "Go", "Java", "C++"]
-        self.passions    = ["Deep Learning", "LLMs",
-                            "Data Engineering", "OSS"]
-        self.currently   = "Building smarter AI systems"
-        self.fun_fact    = "I speak fluent Python & broken Go 🐍"
+        self.name      = "Vaasu Chandra"
+        self.role      = "ML Engineer"
+        self.location  = "🌍 Earth"
+        self.languages = ["Python", "Go", "Java", "C++"]
+        self.passions  = ["Deep Learning", "LLMs", "Data Engineering"]
+        self.currently = "Building smarter AI systems"
+        self.fun_fact  = "I speak fluent Python & broken Go 🐍"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing 🚀")
 
 me = VaasuChandra()
 me.say_hi()
-` ` `
+```
 
-</td>
-<td width="45%" valign="top" align="center">
+---
 
-## 📡 Connect
-
-<br/>
+## 📡 Connect with me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vaasuchandraa)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grimbit1)
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaasu29&theme=tokyonight&hide_border=true&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&background=0d1117" width="100%"/>
-
-</td>
-</tr>
-</table>
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaasu29)
 
 ---
 
 ## 🧰 Tech Arsenal
 
-<div align="center">
+**🤖 ML / AI**
 
-### 🤖 ML / AI Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -71,7 +53,8 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### 🛠️ Dev & Cloud
+**🛠️ Dev & Cloud**
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -79,7 +62,8 @@ me.say_hi()
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### 🗄️ Data & Tools
+**🗄️ Data & Tools**
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Hadoop](https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)
@@ -87,18 +71,24 @@ me.say_hi()
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-</div>
-
 ---
 
-## 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaasu29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaasu29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9"/>
 
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaasu29&theme=tokyonight&hide_border=true&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&background=0d1117" width="60%"/>
+
 </div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -112,11 +102,11 @@ me.say_hi()
 
 ---
 
-## 🏆 Achievements
+## 🏆 Trophies
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaasu29&theme=tokyonight&no-frame=true&no-bg=true&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=vaasu29&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -126,7 +116,7 @@ me.say_hi()
 
 <div align="center">
 
-[![Vaasu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vaasu29&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=vaasu29&bg_color=0d1117&color=00f5ff&line=a78bfa&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -134,15 +124,8 @@ me.say_hi()
 
 <div align="center">
 
-> *"The best model is the one that ships."* — Every ML Engineer ever 🤖
-
-<br/>
+*"The best model is the one that ships."* 🤖
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=twinkling"/>
 
 </div>
-```
-
-**Important:** In the `whoami` code block, remove the spaces between the backticks in ` ` ` at the end — it should be ` ``` ` (three backticks with no spaces). I had to add spaces so it wouldn't break the formatting here.
-
-Paste this into your README.md editor, fix those backticks, then click **Commit changes** — your profile will look 🔥
