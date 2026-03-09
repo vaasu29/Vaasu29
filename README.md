@@ -83,15 +83,6 @@ me.say_hi()
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🔁 [MLOps Churn Prediction Pipeline](https://github.com/vaasu29/mlops-churn-pipeline) | End-to-end MLOps pipeline with drift detection, MLflow tracking & Airflow auto-retraining | Python, MLflow, Evidently AI, FastAPI, Docker |
-| 👁️ Detection of Systemic Diseases via Ocular Images | Deep learning pipeline for disease classification from fundus images — F1 improved 0.79 → 0.93 | EfficientNet, Flask, Streamlit |
-
----
-
 ## 🏆 Certifications
 
 - 🔷 **Microsoft Azure Fundamentals (AZ-900)** — Microsoft
