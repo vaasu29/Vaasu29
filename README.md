@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vaasu%20Chandra&fontSize=60&fontColor=00f5ff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20AI%20Architect%20%7C%20Data%20Alchemist&descAlignY=58&descSize=18&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Vaasu%20Chandra&fontSize=60&fontColor=00f5ff&animation=twinkling&fontAlignY=35&desc=ML%20Engineer%20%7C%20AI%20Architect&descAlignY=58&descSize=18&descColor=a78bfa"/>
 
 <div align="center">
 
@@ -14,17 +14,19 @@
 ---
 
 ## 🧬 `whoami`
-
 ```python
 class VaasuChandra:
     def __init__(self):
         self.name      = "Vaasu Chandra"
         self.role      = "ML Engineer"
-        self.location  = "🌍 Earth"
-        self.languages = ["Python", "Go", "Java", "C++"]
-        self.passions  = ["Deep Learning", "LLMs", "Data Engineering"]
-        self.currently = "Building smarter AI systems"
-        self.fun_fact  = "I speak fluent Python & broken Go 🐍"
+        self.location  = "🌍 Jabalpur, Madhya Pradesh, India"
+        self.education = "4th Year Int M.Tech CSE @ VIT Bhopal"
+        self.spec      = "Computational and Data Science"
+        self.languages = ["Python", "Java", "JavaScript", "SQL"]
+        self.passions  = ["MLOps", "Data Science", "AI/ML Systems"]
+        self.currently = "Building production-grade MLOps pipelines"
+        self.targets   = ["Snowflake", "Databricks", "Cloudera", "Eltropy"]
+        self.fun_fact  = "Marathon runner — 2 × 10K finisher 🏃"
 
     def say_hi(self):
         print("Thanks for dropping by! Let's build something amazing 🚀")
@@ -37,6 +39,8 @@ me.say_hi()
 
 ## 📡 Connect with me
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaasuchandra)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaasu2905@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vaasuchandraa)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaasu29)
 
@@ -53,11 +57,17 @@ me.say_hi()
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+**⚙️ MLOps & Deployment**
+
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Evidently](https://img.shields.io/badge/Evidently%20AI-FF4B4B?style=for-the-badge)
+
 **🛠️ Dev & Cloud**
 
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -70,6 +80,30 @@ me.say_hi()
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| 🔁 [MLOps Churn Prediction Pipeline](https://github.com/vaasu29/mlops-churn-pipeline) | End-to-end MLOps pipeline with drift detection, MLflow tracking & Airflow auto-retraining | Python, MLflow, Evidently AI, FastAPI, Docker |
+| 👁️ Detection of Systemic Diseases via Ocular Images | Deep learning pipeline for disease classification from fundus images — F1 improved 0.79 → 0.93 | EfficientNet, Flask, Streamlit |
+
+---
+
+## 🏆 Certifications
+
+- 🔷 **Microsoft Azure Fundamentals (AZ-900)** — Microsoft
+- 🤖 **IBM AI Engineering** — Coursera
+- 🐍 **Python Data Structures** — Coursera
+
+---
+
+## 🎯 Achievements
+
+- 🥇 **Genesis X Hackathon** — First Place
+- 📈 **StockQuest** — Winner
 
 ---
 
