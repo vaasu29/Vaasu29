@@ -94,12 +94,12 @@ me.say_hi()
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaasu29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaasu29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaasu29&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=a78bfa&text_color=c9d1d9&cache_seconds=86400&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaasu29&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9&cache_seconds=86400"/>
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vaasu29&theme=tokyonight&hide_border=true&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&background=0d1117" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=vaasu29&theme=tokyonight&hide_border=true&ring=00f5ff&fire=a78bfa&currStreakLabel=00f5ff&background=0d1117" width="60%"/>
 
 </div>
 
@@ -123,7 +123,7 @@ me.say_hi()
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vaasu29&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=vaasu29&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" width="100%"/>
 
 </div>
 
